@@ -1,0 +1,1 @@
+This is simple web project where you can just upload videos and then others can watch them just like youtube
